@@ -1,0 +1,2 @@
+# ML-MODEL-TRAINING-AND-ANALYSIS-OF-AIR-QUALITY-DATA-IN-INDIA---PYTHON
+Built supervised machine learning models to predict Air Quality Index (AQI) in India using pollutant data. Applied preprocessing, feature selection, and algorithms including Linear Regression, Decision Tree, Random Forest, and SVM. Evaluated model performance to identify the most accurate model for AQI forecasting and analysis.
